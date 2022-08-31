@@ -66,4 +66,14 @@ body {
 
 .footer{
     height:800px;
+    color: white;
+    background-color: black;
+}
+
+.info{
+    padding:50px 30px 50px 30px;
+}
+
+.info h4{
+    font-size: 40px;
 }
