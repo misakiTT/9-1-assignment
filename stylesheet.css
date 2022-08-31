@@ -25,11 +25,11 @@ body {
     width:100%;
 }
 
-.menu {
+.drinkmenu {
     height:500px
 }
 
-.menu h3{
+.drinkmenu h3{
     text-align: center;
     padding-top: 30px;
     font-size:30px;
@@ -42,4 +42,19 @@ body {
 
 .firstimage{
     margin-left: 20px;
+}
+
+.foodmenu{
+    height:500px;
+}
+
+.foodmenu h3{
+    text-align: center;
+    padding-top: 30px;
+    font-size:30px;
+}
+
+.foods{
+    float: left;
+    margin-right: 10px;
 }
