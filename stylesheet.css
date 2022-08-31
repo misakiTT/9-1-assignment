@@ -58,3 +58,12 @@ body {
     float: left;
     margin-right: 10px;
 }
+.moremenu{
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.footer{
+    height:800px;
+}
